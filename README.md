@@ -21,10 +21,13 @@
 
 
 ## Contact:
+<p>
+ 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="21" height="21" />
 
-<p align="left"> <a href="https://www.linkedin.com/in/javierpalaciosbotrejara/" target="_blank" rel="noreferrer" class="lnkd-link">
-  <img  style="vertical-align:middle;margin:0px 50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="32" />
-<span>Linkedin</span>
-</a></p>
+<a href="https://www.linkedin.com/in/javierpalaciosbotrejara/" target="_blank" rel="noreferrer">
+ <sup>Linkedin</sup>
+</a>  
+</p>
 
-<a href="mailto:javierpalaciosbotejara@gmail.com">javierpalaciosbotejara@gmail</a></p>
+<a href="mailto:javierpalaciosbotejara@gmail.com"><sup>javierpalaciosbotejara@gmail</sup></a>
