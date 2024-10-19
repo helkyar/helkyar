@@ -1,8 +1,7 @@
 ## Hi there I'm Javi 👋
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5518B8&width=435&lines=+I'm+a+Front+End+Developer+💥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+roman&weight=600&duration=3000&pause=300&color=4FB0F7&background=4E6EFF00&multiline=true&width=800&height=55&lines=Fronend+developer;_____________________)](https://git.io/typing-svg)
 
- 
  ## My Statistics
  
 ![helkyar GitHub stats](https://github-readme-stats.vercel.app/api?username=helkyar&show_icons=true&theme=radical)
