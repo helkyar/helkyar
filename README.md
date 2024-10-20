@@ -11,19 +11,18 @@
 ```javascript
 const javi = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
+  technologies: {
+    js: [React, Jest, Redux, Node, Next.js],
+    css: [Sass, Tailwind, Styled-Components],
+    infra: [Docker, Jenkins]
+  },
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
  ## My Statistics
- <!-- 
-<img height="200" width="auto" src="https://github-readme-stats.vercel.app/api?username=helkyar&show_icons=true&theme=radical&layout=compact" />
-<img height="200" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helkyar&layout=compact&theme=radical" />
- -->
-
 <p align="">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=helkyar&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=helkyar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api?username=helkyar&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&include_all_commits=true">
+  <img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=helkyar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=java">
 </p>
  
 ## Streak
