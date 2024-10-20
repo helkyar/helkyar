@@ -1,0 +1,17 @@
+{
+  "name": "helkyar",
+  "version": "1.0.0",
+  "description": "github profile",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "update-readme": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "helkyar"
+  },
+  "author": "javier palacios",
+  "license": "ISC"
+}
