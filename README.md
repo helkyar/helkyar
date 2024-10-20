@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-javierpalacios-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javierpalaciosbotejara" alt="Javier Palacios linkedin"/>
-<img src="https://img.shields.io/badge/-javierpalaciosbotejara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javierpalaciosbotejara@gmail.com" alt="email to javier palacios: javierpalaciosbotejara@gmail.com"/>
+<img src="https://img.shields.io/badge/-javierpalacios-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javierpalaciosbotejara" alt="Javier Palacios linkedin"/>
 <img src="https://komarev.com/ghpvc/?username=helkyar&color=75F94D" alt="github visits badge"/>
 </p>
 
