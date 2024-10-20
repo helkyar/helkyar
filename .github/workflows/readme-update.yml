@@ -31,4 +31,4 @@ jobs:
           git config user.email javierpalaciosbotejara@gmail.com
           git add README.md
           git commit -m "[bot] Update README with cron job"
-          git push origin master
+          git push origin main
