@@ -38,5 +38,5 @@ const javi = {
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=helkyar&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-
+<p align="center">last successful automatic update 2024-10-21</p>
 <p align="center">last successful manual update 2024-10-20</p>
