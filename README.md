@@ -17,8 +17,8 @@
 const javi = {
   code: [Javascript, Typescript, HTML, CSS],
   technologies: {
-    js: [React, Jest, Redux, Node, Next.js],
-    css: [Sass, Tailwind, Styled - Components],
+    js: [React, Jest, Playwright, Redux, Node, Next.js, MDX],
+    css: [Sass, Tailwind, Styled-Components, Shadcn/ui],
     infra: [Docker, Jenkins],
   },
   challenge:
@@ -39,4 +39,4 @@ const javi = {
 </p>
 
 <p align="center">last successful automatic update 2024-10-23</p>
-<p align="center">last successful forced update 2024-10-21</p>
+<p align="center">last successful forced update 2024-10-24</p>
