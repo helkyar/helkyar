@@ -19,7 +19,7 @@ const javi = {
   technologies: {
     js: [React, Jest, Playwright, Redux, Node, Next.js, MDX],
     css: [Sass, Tailwind, Styled-Components, Shadcn/ui],
-    infra: [Docker, Jenkins],
+    infra: [Docker, Jenkins, Vercel],
   },
   challenge:
     'I am doing the #100DaysOfCode challenge focused on react and typescript',
