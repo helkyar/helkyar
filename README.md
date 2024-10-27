@@ -30,7 +30,7 @@ const javi = {
 
 <p align="center">
   <img height="175" width="auto" src ="https://github-readme-stats.vercel.app/api?username=helkyar&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&include_all_commits=true">
-  <img height="175" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=helkyar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=java">
+  <img height="175" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=helkyar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=CSS,HTML">
 </p>
  
 ## Streak
@@ -38,5 +38,5 @@ const javi = {
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=helkyar&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-<p align="center">last successful automatic update 2024-10-26</p>
+<p align="center">last successful automatic update 2024-10-27</p>
 <p align="center">last successful forced update 2024-10-24</p>
