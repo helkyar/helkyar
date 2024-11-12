@@ -22,7 +22,7 @@ const javi = {
     infra: [Docker, Jenkins, Vercel],
   },
   challenge:
-    'I am doing the #100DaysOfCode challenge focused on react and typescript (22/100)',
+    'I am doing the #100DaysOfCode challenge focused on react and typescript (25/100)',
 }
 ```
 
@@ -39,4 +39,4 @@ const javi = {
 </p>
 
 <p align="center">last successful automatic update 2024-11-09</p>
-<p align="center">last successful forced update 2024-10-24</p>
+<p align="center">last successful forced update 2024-11-12</p>
