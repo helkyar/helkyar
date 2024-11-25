@@ -22,7 +22,7 @@ const javi = {
     infra: [Docker, Jenkins, Vercel],
   },
   challenge:
-    'I am doing the #100DaysOfCode challenge focused on react and typescript (37/100)',
+    'I am doing the #100DaysOfCode challenge focused on react and typescript (38/100)',
 }
 ```
 
@@ -38,5 +38,5 @@ const javi = {
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=helkyar&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-<p align="center">last successful automatic update 2024-11-24</p>
+<p align="center">last successful automatic update 2024-11-25</p>
 <p align="center">last successful forced update 2024-11-12</p>
