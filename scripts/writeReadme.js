@@ -5,8 +5,8 @@ const STREAK_PLACEHOLDER = '%{current}%'
 const ENCODING = 'utf8'
 
 function updateChallengeDate(){
-  const currentStreak = Math.floor((Number(new Date()) - Number(new Date('10-18-2024'))) / 86400000)
-  return `(${currentStreak}/100)` 
+  //const currentStreak = Math.floor((Number(new Date()) - Number(new Date('10-18-2024'))) / 86400000)
+  return `(100/100)` 
 }
 
 module.exports = async function updateReadme(params) {
