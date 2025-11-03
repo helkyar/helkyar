@@ -18,7 +18,7 @@ const javi = {
   code: [Javascript, Typescript, HTML, CSS],
   technologies: {
     js: [React, Jest, Playwright, Redux, Node, Next.js, MDX],
-    css: [Sass, Tailwind, Styled-Components, Shadcn//ui],
+    css: [Sass, Tailwind, Styled-Components, Shadcn/ui],
     infra: [Docker, Jenkins, Vercel],
   },
   challenge:
